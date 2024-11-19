@@ -576,6 +576,14 @@ footer {
     height: inherit;
     width: 50%;
 }
+.sixty-percent {
+    height: inherit;
+    width: 60%;
+}
+.seventy-percent {
+    height: inherit;
+    width: 70%;
+}
 
 
 @media only screen and (max-width: 572px) {
